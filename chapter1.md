@@ -2,4 +2,4 @@
 
 Bla bla bla bla
 
-![](./kiwi.svg)
+![](./small-duck.svg)
