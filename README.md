@@ -1,4 +1,4 @@
-# Ping a pong
+# Introduction
 
-Add some content to this book. It is kind of empty right now... :\)
+Add some content to this book. It is kind of empty right now...
 
