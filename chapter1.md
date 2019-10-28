@@ -2,8 +2,7 @@
 
 Bla bla bla bla
 
-![](./small-duck.svg)
-
+![](.gitbook/assets/small-duck.svg)
 
 ![progress](https://img.shields.io/badge/progress-100%25-green.svg)
 
