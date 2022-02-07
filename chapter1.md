@@ -7,6 +7,7 @@ Bla bla bla bla
 ![progress](https://img.shields.io/badge/progress-100%25-green.svg)
 
 ```text
+{% raw %}
 {% sw_extends '@Storefront/storefront/base.html.twig' %}
 
 {% block base_body %}
@@ -21,4 +22,5 @@ Bla bla bla bla
     {{ parent() }}
 
 {% endblock %}
+{% endraw %}
 ```
